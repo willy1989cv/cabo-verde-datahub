@@ -38,22 +38,9 @@ Beyond the coastline, the island unveils the mesmerizing Viana Desert, adorned w
 
 <Map
 center={{
-    latitude: 53.9614,
-    longitude: -1.0739
+    latitude: 16.090109,
+    longitude: -22.790683
   }}
-layers={[
-{
-data: {
-url: 'https://opendata.arcgis.com/datasets/9c58741995174fbcb017cf46c8a42f4b_25.geojson'
-},
-name: 'Points',
-tooltip: {
-propNames: [
-'Location'
-]
-}
-}
-]}
-title="Roads in York"
-zoom={12}
+
+zoom={8}
 />
