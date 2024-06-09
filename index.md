@@ -28,7 +28,7 @@ Discover the allure of Cabo Verde, where sunlit beaches, lively culture, and div
 ### 10 Islands...
 
 <Catalog
-datasets=[
+datasets={[
 {
 "_id": "random_id_2",
 "url_path": "/islands/santo-antao",
@@ -92,7 +92,8 @@ datasets=[
 "title": "Brava"
 }
 }
-]
+]}
+
 />
 
 ### Where on planet?
