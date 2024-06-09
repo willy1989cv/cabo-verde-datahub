@@ -38,6 +38,8 @@ Beyond the coastline, the island unveils the mesmerizing Viana Desert, adorned w
 
 > [!info] This is cool!
 
+## Map
+
 <Map
 center={{
   latitude: 16.090109,
