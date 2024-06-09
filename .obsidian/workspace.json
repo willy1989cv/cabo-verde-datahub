@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "index.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -148,6 +148,10 @@
   },
   "active": "59351162b3ef3a4f",
   "lastOpenFiles": [
+    "data/index.csv",
+    "data/New Text Document.txt",
+    "data",
+    "New folder",
     "blog/test.md",
     "blog/lorem-ipsum-article.md",
     "index.md",
