@@ -1,6 +1,6 @@
 ---
 author: William Lima
-title: Sal
+title: Sal Island
 image: https://media.iatiseguros.pt/wp-content/uploads/sites/2/2019/08/praia-santa-maria-ilha-sal.jpg
 tags:
   - ocean
