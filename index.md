@@ -11,7 +11,7 @@ Discover the allure of Cabo Verde, where sunlit beaches, lively culture, and div
 datasets={[
 {
 "_id": "random_id_2",
-"url_path": "cabo-verde-datahub/islands/santo-antao",
+"url_path": "cabo-verde-datahub/islands/santo-antao/index",
 "metadata": {
 "title": "Santo Antão"
 }
