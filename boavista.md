@@ -35,3 +35,25 @@ datapackage:
 Boa Vista Island, part of Cape Verde's archipelago, is a beach lover's paradise. Its pristine sandy stretches, notably Praia de Chaves and Santa Monica Beach, offer serene escapes and ideal conditions for water sports like windsurfing and kiteboarding.
 
 Beyond the coastline, the island unveils the mesmerizing Viana Desert, adorned with captivating sand dunes, alongside rich marine life that beckons whale watching and turtle nesting experiences. Sal Rei, the island's main town, showcases a vibrant fusion of African and Portuguese influences, inviting visitors to explore local markets and savor delicious Cape Verdean cuisine. Boa Vista's breathtaking beaches, diverse landscapes, and cultural allure make it an irresistible destination for relaxation and exploration in Cape Verde.
+
+<Map
+center={{
+    latitude: 53.9614,
+    longitude: -1.0739
+  }}
+layers={[
+{
+data: {
+url: 'https://opendata.arcgis.com/datasets/9c58741995174fbcb017cf46c8a42f4b_25.geojson'
+},
+name: 'Points',
+tooltip: {
+propNames: [
+'Location'
+]
+}
+}
+]}
+title="Roads in York"
+zoom={12}
+/>
