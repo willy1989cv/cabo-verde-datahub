@@ -1,26 +1,5 @@
 ---
-datapackage:
-  title: Santo Antão
-  description:
-  resources:
-    - path: data.csv
-      title: Cabo Verde Islands
-      name: cabo-verde-islands
-      format: csv
-      schema:
-        fields:
-          - name: Island
-            type: text
-          - name: Description
-            type: text
-          - name: Size(km2)
-            type: text
-          - name: Main Tourism Points
-            type: text
-    - path: sal.jpg
-      title: Sal Island
-      name: sal-island
-      format: jpg
+title: Santo Antão
 ---
 
 Santo Antão Island in Cape Verde is a nature lover's paradise, renowned for its breathtaking landscapes and rugged terrain. It's a haven for hiking enthusiasts and adventurers seeking stunning vistas of verdant valleys, towering mountains, and dramatic cliffs along the coastline. Explore the island's diverse ecosystems, from fertile agricultural fields to mist-covered peaks.
