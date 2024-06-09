@@ -75,12 +75,3 @@ datasets={[
 ]}
 
 />
-
-### Where on planet?
-
-<Map
-center={{
-    latitude: 16,
-    longitude: -24
-}}
-/>
