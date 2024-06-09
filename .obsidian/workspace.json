@@ -148,6 +148,8 @@
   },
   "active": "59351162b3ef3a4f",
   "lastOpenFiles": [
+    "blog/test.md",
+    "blog/lorem-ipsum-article.md",
     "index.md",
     "config.mjs",
     "islands/sao-vicente.md",
@@ -161,8 +163,6 @@
     "islands/brava.md",
     "islands/boavista.md",
     "islands",
-    "blog/test.md",
-    "blog/lorem-ipsum-article.md",
     "blog/discover-cabo-verde.md",
     "blog"
   ]

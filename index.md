@@ -7,8 +7,4 @@ Discover the allure of Cabo Verde, where sunlit beaches, lively culture, and div
 
 ### 10 Islands...
 
-<Grid />
-
 ### Where on planet?
-
-<Map />
