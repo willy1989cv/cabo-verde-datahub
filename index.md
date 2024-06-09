@@ -11,63 +11,63 @@ Discover the allure of Cabo Verde, where sunlit beaches, lively culture, and div
 datasets={[
 {
 "_id": "random_id_2",
-"url_path": "cabo-verde-datahub/islands/santo-antao",
+"url_path": "./islands/santo-antao",
 "metadata": {
 "title": "Santo Antão"
 }
 },
 {
 "_id": "random_id_3",
-"url_path": "cabo-verde-datahub/islands/sao-vicente",
+"url_path": "./islands/sao-vicente",
 "metadata": {
 "title": "São Vicente"
 }
 },
 {
 "_id": "random_id_7",
-"url_path": "cabo-verde-datahub/islands/sao-nicolau",
+"url_path": "./islands/sao-nicolau",
 "metadata": {
 "title": "São Nicolau"
 }
 },
 {
 "_id": "random_id_4",
-"url_path": "cabo-verde-datahub/islands/sal",
+"url_path": "./islands/sal",
 "metadata": {
 "title": "Sal"
 }
 },
 {
 "_id": "random_id_5",
-"url_path": "cabo-verde-datahub/islands/boa-vista",
+"url_path": "./islands/boa-vista",
 "metadata": {
 "title": "Boa Vista"
 }
 },
 {
 "_id": "random_id_6",
-"url_path": "cabo-verde-datahub/islands/maio",
+"url_path": "./islands/maio",
 "metadata": {
 "title": "Maio"
 }
 },
 {
 "_id": "random_id_1",
-"url_path": "cabo-verde-datahub/islands/santiago",
+"url_path": "./islands/santiago",
 "metadata": {
 "title": "Santiago"
 }
 },
 {
 "_id": "random_id_8",
-"url_path": "cabo-verde-datahub/islands/fogo",
+"url_path": "./islands/fogo",
 "metadata": {
 "title": "Fogo"
 }
 },
 {
 "_id": "random_id_9",
-"url_path": "cabo-verde-datahub/islands/brava",
+"url_path": "./islands/brava",
 "metadata": {
 "title": "Brava"
 }
