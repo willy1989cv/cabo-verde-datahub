@@ -3,7 +3,7 @@ datapackage:
   title: Santo Antão
   description:
   resources:
-    - path: places.csv
+    - path: data/places.csv
       title: Places to go
       name: places-to-go
       format: csv
@@ -13,7 +13,7 @@ datapackage:
             type: text
           - name: Activities
             type: text
-    - path: hotels.csv
+    - path: data/hotels.csv
       title: Hotels
       name: hotels
       format: csv
