@@ -1,4 +1,10 @@
 ---
+author: William Lima
+title: Santo Antão
+image:
+  https://www.visit-caboverde.com/_next/image?url=https%3A%2F%2Fadmin.visit-caboverde.com%2Fuploads%2Fhero_banner_santo_antao_cabo_verde_0b63e321d6.jpg&w=3840&q=75
+  - nature
+  - mountains
 datapackage:
   title: Santo Antão
   description:
