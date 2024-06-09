@@ -39,9 +39,9 @@ datasets={[
 },
 {
 "_id": "random_id_5",
-"url_path": "cabo-verde-datahub/boa-vista",
+"url_path": "cabo-verde-datahub/boavista",
 "metadata": {
-"title": "Boa Vista"
+"title": "Boavista"
 }
 },
 {
