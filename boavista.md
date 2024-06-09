@@ -38,12 +38,10 @@ Beyond the coastline, the island unveils the mesmerizing Viana Desert, adorned w
 
 <Map
 center={{
-    latitude: 16.090109,
-    longitude: -22.790683
-  }}
-layers={[
-
-]}
+  latitude: 16.090109,
+  longitude: -22.790683
+}}
+layers={[]}
 title="Boavista"
-zoom={7}
+zoom={10}
 />
