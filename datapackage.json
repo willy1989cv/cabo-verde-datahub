@@ -1,0 +1,38 @@
+{
+  "name": "cabo-verde-datasets",
+  "title": "Cabo Verde Datasets",
+  "description": "A collection of datasets related to Cabo Verde, including population statistics, tourism statistics, and economic indicators.",
+  "resources": [
+    {
+      "name": "population_statistics",
+      "path": "population_statistics.csv",
+      "schema": {
+        "fields": [
+          { "name": "Year", "type": "integer" },
+          { "name": "Population", "type": "integer" }
+        ]
+      }
+    },
+    {
+      "name": "tourism_statistics",
+      "path": "tourism_statistics.csv",
+      "schema": {
+        "fields": [
+          { "name": "Year", "type": "integer" },
+          { "name": "Tourists", "type": "integer" }
+        ]
+      }
+    },
+    {
+      "name": "economic_indicators",
+      "path": "economic_indicators.csv",
+      "schema": {
+        "fields": [
+          { "name": "Year", "type": "integer" },
+          { "name": "GDP", "type": "number" },
+          { "name": "Inflation Rate", "type": "number" }
+        ]
+      }
+    }
+  ]
+}
