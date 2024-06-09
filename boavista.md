@@ -36,6 +36,8 @@ Boa Vista Island, part of Cape Verde's archipelago, is a beach lover's paradise.
 
 Beyond the coastline, the island unveils the mesmerizing Viana Desert, adorned with captivating sand dunes, alongside rich marine life that beckons whale watching and turtle nesting experiences. Sal Rei, the island's main town, showcases a vibrant fusion of African and Portuguese influences, inviting visitors to explore local markets and savor delicious Cape Verdean cuisine. Boa Vista's breathtaking beaches, diverse landscapes, and cultural allure make it an irresistible destination for relaxation and exploration in Cape Verde.
 
+> [!info] This is cool!
+
 <Map
 center={{
   latitude: 16.090109,
