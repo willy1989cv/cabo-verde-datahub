@@ -53,5 +53,3 @@ zoom={10}
 const ExampleCode = () => {
 return <div> .... </div>;
 };
-
-<ExampleCode/>
