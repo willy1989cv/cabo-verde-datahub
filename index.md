@@ -2,10 +2,10 @@
 title: Welcome to the Cabo Verde Islands!
 author: William Lima
 datapackage:
-    - title: Welcome!
-    - author: William Lima
-    - resources:
-        - name: The Islands of Cabo Verde
+  - title: Welcome!
+  - author: William Lima
+  - resources:
+      - name: The Islands of Cabo Verde
         path: /data/index.csv
 ---
 
