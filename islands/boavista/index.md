@@ -10,7 +10,7 @@ datapackage:
   title: Boavista
   description:
   resources:
-    - path: places.csv
+    - path: ./cabo-verde-datahub/places.csv
       title: Places to go
       name: places-to-go
       format: csv
@@ -20,7 +20,7 @@ datapackage:
             type: text
           - name: Activities
             type: text
-    - path: hotels.csv
+    - path: ./cabo-verde-datahub/hotels.csv
       title: Hotels
       name: hotels
       format: csv
