@@ -38,6 +38,7 @@ Beyond its stunning coastline, Maio boasts a diverse landscape of verdant valley
 ## Map
 
 <Map
+tileLayerName="OPNVKarte"
 center={{
   latitude: 15.216321082473568,
   longitude: -23.16585681093039
