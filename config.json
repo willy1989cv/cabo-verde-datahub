@@ -1,5 +1,5 @@
 {
   "showSidebar": true,
-  "showRepositoryLink": true,
-  "showEditLink": true
+  "showRepositoryLink": false,
+  "showEditLink": false
 }
