@@ -3,5 +3,5 @@
   "showRepositoryLink": true,
   "showEditLink": true,
   "contentExclude": ["/blog"],
-  "contentInclude": ["/islands", "/"]
+  "contentInclude": ["/islands", "index.md"]
 }
