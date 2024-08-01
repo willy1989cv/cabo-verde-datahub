@@ -2,6 +2,6 @@
   "showSidebar": true,
   "showRepositoryLink": true,
   "showEditLink": true,
-  "contentExclude": ["/blog"],
-  "contentInclude": ["/islands", "index.md"]
+  "contentExclude": ["/blog/archive"],
+  "contentInclude": ["/blog/archive/index.md"]
 }
