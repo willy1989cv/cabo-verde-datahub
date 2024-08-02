@@ -7,7 +7,12 @@
     "islands/Santa Luzia/index.md",
     "/santo-antao.md"
   ],
-  "contentInclude": ["/", "/blog", "/islands", "/blog/archive/index.md"],
+  "contentInclude": [
+    "/index.md",
+    "/blog",
+    "/islands",
+    "/blog/archive/index.md"
+  ],
   "social": [
     { "label": "youtube", "href": "https://youtube.com" },
     { "label": "facebook", "href": "https://www.facebook.com" },
