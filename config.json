@@ -2,6 +2,6 @@
   "showSidebar": true,
   "showRepositoryLink": true,
   "showEditLink": true,
-  "contentExclude": ["/blog/archive"],
+  "contentExclude": ["/blog/archive", "islands/Santa Luzia/index.md"],
   "contentInclude": ["/blog/archive/index.md"]
 }
