@@ -9,12 +9,11 @@
   ],
   "contentInclude": ["/blog/archive/index.md"],
   "social": [
-    { "label": "youtube", "href": "https://discord.com/invite/KrRzMKU" },
-    {
-      "label": "facebook",
-      "href": "https://www.linkedin.com/company/10340373"
-    },
-    { "label": "twitter", "href": "https://twitter.com/datopian" },
-    { "label": "x", "href": "https://github.com/datopian" }
+    { "label": "youtube", "href": "https://youtube.com" },
+    { "label": "facebook", "href": "https://www.facebook.com" },
+    { "label": "linkedin", "href": "https://www.linkedin.com" },
+    { "label": "twitter", "href": "https://twitter.com" },
+    { "label": "instagram", "href": "https://github.com" },
+    { "label": "github", "href": "https://github.com" }
   ]
 }
