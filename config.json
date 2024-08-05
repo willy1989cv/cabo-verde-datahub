@@ -2,17 +2,8 @@
   "showSidebar": true,
   "showRepositoryLink": true,
   "showEditLink": true,
-  "contentExclude": [
-    "/blog/archive",
-    "islands/Santa Luzia/index.md",
-    "/santo-antao.md"
-  ],
-  "contentInclude": [
-    "/index.md",
-    "/blog",
-    "/islands",
-    "/blog/archive/index.md"
-  ],
+  "contentExclude": ["/blog/archive", "/santo-antao.md"],
+  "contentInclude": ["/index.md", "/blog"],
   "social": [
     { "label": "youtube", "href": "https://youtube.com" },
     { "label": "facebook", "href": "https://www.facebook.com" },
