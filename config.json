@@ -1,5 +1,5 @@
 {
-  "showSidebar": true,
+  "showSidebar": false,
   "showRepositoryLink": true,
   "showEditLink": true,
   "contentExclude": ["/blog/archive", "/santo-antao.md"],
