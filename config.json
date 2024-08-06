@@ -3,7 +3,7 @@
   "showRepositoryLink": true,
   "showEditLink": true,
   "contentExclude": ["/blog/archive", "/santo-antao.md"],
-  "contentInclude": ["/index.md", "/blog"],
+  "contentInclude": [],
   "social": [
     { "label": "youtube", "href": "https://youtube.com" },
     { "label": "facebook", "href": "https://www.facebook.com" },
