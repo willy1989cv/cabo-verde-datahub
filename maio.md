@@ -33,7 +33,7 @@ datapackage:
 
 Maio Island in Cape Verde is a serene paradise characterized by its peaceful ambiance and unspoiled natural beauty. Known for its idyllic, uncrowded beaches with powdery sand and clear turquoise waters, Maio offers a tranquil escape for beach lovers and relaxation seekers. The island's laid-back atmosphere and minimal tourism development make it a perfect retreat for those craving peaceful solitude.
 
-Beyond its stunning coastline, Maio boasts a diverse landscape of verdant valleys, salt flats, and small fishing villages that exude authentic Cape Verdean charm. Visitors can immerse themselves in the local culture, savoring fresh seafood, exploring the quaint streets, and engaging with the friendly locals. Maio's untouched allure and unpretentious beauty make it an ideal destination for a serene and authentic Cape Verdean experience.
+Beyond its stunning coastline, Maio boasts a diverse landscape of verdant valleys, salt flats, and small fishing villages that exude authentic Cape Verdean charm. Visitors can immerse themselves in the local culture, savoring fresh seafood, exploring the quaint streets, and engaging with the friendly locals. Maio's untouched allure and unpretentious beauty make it an ideal destination for a serene and authentic Cape Verdean experience. this is
 
 ## Map
 
