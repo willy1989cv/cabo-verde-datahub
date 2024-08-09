@@ -2,6 +2,7 @@
 title: Discover the Untouched Beauty of Cabo Verde
 authors: [william-lima]
 ---
+
 Cabo Verde, a hidden gem in the Atlantic Ocean, is an archipelago of ten volcanic islands that captivate the hearts of those seeking a unique and off-the-beaten-path travel experience. Nestled off the coast of West Africa, Cabo Verde, also known as Cape Verde, boasts stunning landscapes, vibrant culture, and a rich history waiting to be explored. In this article, we'll delve into the enchanting world of Cabo Verde, highlighting its diverse offerings that make it a must-visit destination for avid travelers.
 
 1. **The Islands of Cabo Verde: A Spectacle of Nature**
@@ -10,7 +11,7 @@ Cabo Verde's archipelago is divided into two groups: the Barlavento Islands (win
 
 2. **Soulful Rhythms and Vibrant Culture**
 
-Cabo Verde is renowned for its rich cultural heritage, blending influences from Africa, Portugal, and Brazil. The islands are steeped in music and dance, with the melancholic melodies of morna and the lively beats of funaná echoing through the cobbled streets. Visitors can immerse themselves in the local culture by attending live performances, joining in traditional dance celebrations, and sampling the delicious Creole cuisine that reflects the diverse influences on the islands.
+Cabo Verde is renowned for its rich cultural heritage, blending influences from Africa, Portugal, and Brazil. The islands are steeped in music and dance, with the melancholic melodies of morna and the lively beats of funaná echoing through the cobbled streets. Visitors can immerse themselves in the local culture by attending live performances, joining in traditional dance celebrations, and sampling the delicious Creole cuisine that reflects the diverse influences on the islands. test
 
 3. **Water Adventures and Pristine Beaches**
 
