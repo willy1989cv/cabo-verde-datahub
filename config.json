@@ -2,7 +2,7 @@
   "showSidebar": true,
   "showRepositoryLink": true,
   "showEditLink": true,
-  "contentExclude": ["/blog/archive", "/santo-antao.md"],
+  "contentExclude": ["/blog/archive", "/santo-antao.md", "/islands"],
   "contentInclude": [],
   "social": [
     { "label": "youtube", "href": "https://youtube.com" },
