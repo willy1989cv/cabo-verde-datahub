@@ -2,7 +2,7 @@
   "showSidebar": true,
   "showRepositoryLink": true,
   "showEditLink": true,
-  "contentExclude": ["/blog/archive", "/toc-playground.md"],
+  "contentExclude": ["/blog/archive", "/santo-antao.md", "/toc-playground.md"],
   "contentInclude": [],
   "social": [
     { "label": "youtube", "href": "https://youtube.com" },
