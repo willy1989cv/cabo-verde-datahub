@@ -2,7 +2,7 @@
   "showSidebar": true,
   "showRepositoryLink": true,
   "showEditLink": true,
-  "contentExclude": [],
+  "contentExclude": ["/blog/archive"],
   "contentInclude": [],
   "social": [
     { "label": "youtube", "href": "https://youtube.com" },
