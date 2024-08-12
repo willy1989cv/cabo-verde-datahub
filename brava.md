@@ -2,6 +2,7 @@
 author: William Lima
 title: Brava
 image: https://images.squarespace-cdn.com/content/v1/57b9b98a29687f1ef5c622df/1482096703618-MB8SLYALU1X8N6KF9LI9/DSC_0591.jpg
+isDraft: true
 tags:
   - nature
   - mountains
