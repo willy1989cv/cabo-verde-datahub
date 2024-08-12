@@ -1,5 +1,6 @@
 {
   "showSidebar": true,
+  "description": "Aute reprehenderit est aute veniam velit est fugiat incididunt magna.",
   "showRepositoryLink": true,
   "showEditLink": true,
   "contentExclude": ["/blog/archive", "/islands", "toc-playground.md"],
