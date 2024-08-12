@@ -1,7 +1,6 @@
 {
   "showSidebar": true,
   "description": "Aute reprehenderit est aute veniam velit est fugiat incididunt magna.",
-  "showRepositoryLink": true,
   "showEditLink": true,
   "contentExclude": ["/blog/archive", "/islands", "toc-playground.md"],
   "contentInclude": [],
@@ -9,5 +8,10 @@
     { "label": "youtube", "href": "https://youtube.com" },
     { "label": "facebook", "href": "https://www.facebook.com" },
     { "label": "linkedin", "href": "https://www.linkedin.com" }
-  ]
+  ],
+  "author": {
+    "name": "William Lima.",
+    "logo": "https://avatars.githubusercontent.com/u/33525547?s=40&v=4",
+    "url": "http://localhost:3000/@willy1989cv/datahub-playground"
+  }
 }
