@@ -2,7 +2,7 @@
   "showSidebar": true,
   "showRepositoryLink": true,
   "showEditLink": true,
-  "contentExclude": [],
+  "contentExclude": ["/islands"],
   "contentInclude": [],
   "social": [
     { "label": "youtube", "href": "https://youtube.com" },
