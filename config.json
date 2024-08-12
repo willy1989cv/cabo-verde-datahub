@@ -2,7 +2,7 @@
   "showSidebar": true,
   "showRepositoryLink": true,
   "showEditLink": true,
-  "contentExclude": ["/islands", "toc-playground.md"],
+  "contentExclude": ["/blog/archive", "/islands", "toc-playground.md"],
   "contentInclude": [],
   "social": [
     { "label": "youtube", "href": "https://youtube.com" },
