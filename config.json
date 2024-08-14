@@ -2,7 +2,7 @@
   "showSidebar": true,
   "description": "Aute reprehenderit est aute veniam velit est fugiat incididunt magna.",
   "showEditLink": true,
-  "contentExclude": ["/blog/archive", "/islands", "toc-playground.md"],
+  "contentExclude": ["/blog/archive", "/islands"],
   "contentInclude": [],
   "social": [
     { "label": "youtube", "href": "https://youtube.com" },
